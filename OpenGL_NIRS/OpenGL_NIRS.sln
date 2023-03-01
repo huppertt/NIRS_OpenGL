@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGL_NIRS", "OpenGL_NIRS\OpenGL_NIRS.csproj", "{BAFD2A69-5646-4DEE-B4F2-85758EA7DCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFD2A69-5646-4DEE-B4F2-85758EA7DCDC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BAFD2A69-5646-4DEE-B4F2-85758EA7DCDC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BAFD2A69-5646-4DEE-B4F2-85758EA7DCDC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BAFD2A69-5646-4DEE-B4F2-85758EA7DCDC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956F26FB-17CB-4D6A-86DC-D41B504D42EF}
+	EndGlobalSection
+EndGlobal
